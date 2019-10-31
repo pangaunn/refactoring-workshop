@@ -1,4 +1,4 @@
-const statement = require('../src/statement.js')
+const statement = require('./statement.js')
 const invoices = require('../data/invoices.json')
 const plays = require('../data/plays.json')
 
