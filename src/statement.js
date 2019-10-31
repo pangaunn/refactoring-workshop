@@ -44,3 +44,5 @@ function statement(invoice, plays) {
   result += `You earned ${volumeCredits} credits\n`
   return result
 }
+
+module.exports = statement
