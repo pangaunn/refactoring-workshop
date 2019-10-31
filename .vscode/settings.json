@@ -3,5 +3,6 @@
   "eslint.autoFixOnSave": true,
   "eslint.validate": [
     "javascript"
-  ]
+  ],
+  "files.autoSave": "afterDelay"
 }
